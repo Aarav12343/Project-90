@@ -1,0 +1,10 @@
+body{
+    padding-top: 20px;
+    background-color: red;
+}
+
+#heading {
+    color: white;
+    font-size: large;
+    font-family: cursive;
+}
